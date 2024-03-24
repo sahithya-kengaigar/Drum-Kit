@@ -16,7 +16,7 @@
             `audio[data-key="${keyCode}"]`
         );
         audioElement.currentTime = 0;
-        audioElement.play();
+        audioElement.play(); 
         switch (keyCode) {
             case 69:
             case 82:
