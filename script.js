@@ -1,4 +1,4 @@
-{
+ {
     const playingClass = "playing",
         crashRide = document.getElementById("crash-ride"),
         hiHatTop = document.getElementById("hihat-top");
